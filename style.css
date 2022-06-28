@@ -1,0 +1,15 @@
+.box{
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(219,215,207);
+    outline: 5px solid rgb(195,182,158);
+    position: absolute;
+    margin: 50px;
+    background-image: url("./image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.back{
+    transform: rotate(-5deg);
+}
